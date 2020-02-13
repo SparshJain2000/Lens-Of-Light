@@ -131,7 +131,7 @@
     
     .name {
         margin-top: 5vh;
-        margin-left: 25vw;
+        margin-left: 20vw;
         margin-right: 15vw;
         width: 60vw;
     }
@@ -139,14 +139,14 @@
     .name h1 {
         width: 100%;
         margin: 0;
-        font-size: 10vh;
+        font-size: 5rem;
         color: black;
         font-family: 'Averia Serif Libre';
     }
     
     .name p {
         color: rgb(35, 114, 107);
-        font-size: 3vh;
+        font-size: 1.5rem;
         font-family: 'Lato';
     }
     /* ///////////////////////////// */
