@@ -131,15 +131,15 @@
     
     .name {
         margin-top: 5vh;
-        margin-left: 10vw;
-        margin-right: 10vw;
-        width: 70vw;
+        margin-left: 25vw;
+        margin-right: 15vw;
+        width: 60vw;
     }
     
     .name h1 {
         width: 100%;
         margin: 0;
-        font-size: 12vh;
+        font-size: 10vh;
         color: black;
         font-family: 'Averia Serif Libre';
     }
