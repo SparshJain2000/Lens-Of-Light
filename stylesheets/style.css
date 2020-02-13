@@ -1,6 +1,8 @@
     @import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Roboto|Lato|Fondamento|Bubblegum+Sans|Caveat+Brush|Chewy|Lobster+Two');
     html {
         scroll-behavior: smooth;
+        margin: 0;
+        width: 100%;
     }
     
     body {
