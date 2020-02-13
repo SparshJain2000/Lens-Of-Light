@@ -84,7 +84,7 @@
             padding: 1vh;
         }
         #contact .container .row .cont {
-            padding-left: 20vw;
+            padding-left: 17vw;
             margin-bottom: 5vw;
         }
     }
@@ -130,6 +130,7 @@
     }
     
     .name {
+        margin-top: 5vh;
         margin-left: 10vw;
         margin-right: 10vw;
         width: 70vw;
@@ -138,14 +139,14 @@
     .name h1 {
         width: 100%;
         margin: 0;
-        font-size: 9vw;
+        font-size: 12vh;
         color: black;
         font-family: 'Averia Serif Libre';
     }
     
     .name p {
         color: rgb(35, 114, 107);
-        font-size: 3vw;
+        font-size: 3vh;
         font-family: 'Lato';
     }
     /* ///////////////////////////// */
