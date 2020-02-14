@@ -15,10 +15,10 @@
         background-color: rgba(0, 0, 0, 1);
         color: white;
         text-align: center;
-        font-size: 8vh;
+        font-size: 6vh;
         font-family: 'Bubblegum Sans';
-        padding-top: 2vh;
-        height: 16vh;
+        padding: 2vh;
+        height: 14vh;
     }
     
     a:hover,
@@ -28,7 +28,7 @@
     
     .navbar-custom {
         height: 12vh;
-        padding: .7vw;
+        padding: .2vh;
         /* background: rgb(2, 0, 36); */
         /* background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 113, 121, 1) 39%, rgba(9, 118, 128, 1) 42%, rgba(0, 212, 255, 1) 100%); */
         background: linear-gradient(to left, #34e89e, #0f3443);
@@ -40,7 +40,8 @@
     
     .navbar-custom .navbar-brand {
         font-family: 'Averia Serif Libre';
-        font-size: 5vh;
+        font-size: 4vh;
+        padding-left: 2vh;
         color: white;
     }
     
@@ -88,10 +89,10 @@
             margin-bottom: 5vw;
         }
         .name h1 {
-            font-size: 3vh;
+            font-size: 3rem;
         }
         .name p {
-            font-size: .8vh;
+            font-size: 1.2rem;
         }
     }
     
@@ -128,12 +129,13 @@
     /* ////////////////////////////////////////////////// */
     
     #home {
-        height: 71.8vh;
+        height: 73.8vh;
         background: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .5)), url('https://images.pexels.com/photos/122400/pexels-photo-122400.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=450&w=940');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
     }
+    
     .name {
         margin-left: 15vw;
         margin-right: 15vw;
@@ -143,14 +145,14 @@
     .name h1 {
         width: 100%;
         margin: 0;
-        font-size: 4rem;
+        font-size: 5rem;
         color: black;
         font-family: 'Averia Serif Libre';
     }
     
     .name p {
         color: rgb(35, 114, 107);
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         font-family: 'Lato';
     }
     /* ///////////////////////////// */
