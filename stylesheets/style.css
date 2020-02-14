@@ -87,6 +87,12 @@
             padding-left: 17vw;
             margin-bottom: 5vw;
         }
+        .name h1 {
+            font-size: 3vh;
+        }
+        .name p {
+            font-size: .8vh;
+        }
     }
     
     .dropdown .dropdown-menu {
@@ -130,7 +136,6 @@
     }
     
     .name {
-        margin-top: 5vh;
         margin-left: 20vw;
         margin-right: 15vw;
         width: 60vw;
@@ -204,6 +209,7 @@
     .card-img-top {
         display: block;
         width: 100%;
+        /* height: 10rem; */
         height: auto;
         transition: .4s ease;
     }
