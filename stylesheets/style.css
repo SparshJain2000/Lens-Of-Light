@@ -94,6 +94,11 @@
         .name p {
             font-size: 1.2rem;
         }
+        footer .fa {
+            margin-left: 2vw;
+            margin-right: 2vw;
+            transition: .3s ease;
+        }
     }
     
     .dropdown .dropdown-menu {
