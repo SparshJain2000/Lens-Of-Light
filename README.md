@@ -7,4 +7,4 @@
 ###### HTML
 ###### Bootstrap
 ## Installations
-###### Clone the repository and run html file
+###### Clone the repository and run html file in a browser .
