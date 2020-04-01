@@ -7,4 +7,8 @@
 ###### HTML
 ###### Bootstrap
 ## Installations
-###### Clone the repository and run html file in a browser .
+###### Clone the repository 
+```bash
+git clone https://github.com/SparshJain2000/Lens-Of-Light.git
+```
+###### Run index.html file in a browser .
